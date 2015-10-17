@@ -1,6 +1,9 @@
 Tracking / Analytic
 
 https://keen.io/
+https://www.hotjar.com/
+http://www.crazyegg.com/
+
 
 
 Survey
@@ -8,9 +11,14 @@ Survey
 https://surveyplanet.com/features
 https://freeonlinesurveys.com/
 
+
 Creation videos/animations
+
 tool : http://www.powtoon.com/
 How to make a great video : http://www.vertical-leap.uk/blog/7-examples-of-awesome-explainer-videos
+https://www.renderforest.com/
+http://biteable.com/
+http://www.animaker.com/
 
 
 Creation company
@@ -25,4 +33,36 @@ A/B testing
 http://www.quora.com/What-are-the-top-10-consumer-internet-growth-hacks-that-have-been-A-B-tested-1?redirected_qid=939263
 https://www.swrve.com/whitepapers/files/6-AB-Tests.pdf
 
+Design 
 
+http://uxmyths.com/
+https://design.google.com/
+
+Prototype / Moke up
+
+https://popapp.in/
+https://marvelapp.com/
+
+Send SMS
+
+https://www.twilio.com/
+
+Easy paiement
+
+https://stripe.com/gb
+https://www.braintreepayments.com/
+
+
+Icons
+
+http://www.streamlineicons.com/
+https://www.google.com/design/icons/
+
+Growth Hacking
+
+https://docs.google.com/presentation/d/1sh-mFn93lfyj9mkMN_kuS-VNTBym-CreftgCB82fkEs/edit#slide=id.g54adcb479_229
+
+
+Front End Ressource
+
+http://enboard.co/frontend/
