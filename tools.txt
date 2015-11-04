@@ -23,7 +23,7 @@ Creation company
 
 Articles to read before launching a start-up : http://startuplaunchlist.com/
 https://github.com/dennybritz/startupreadings
-startup kit : https://startupkit.io/skgen/start.html
+startup kit : https://startupkit.io/index/
 
 
 A/B testing
